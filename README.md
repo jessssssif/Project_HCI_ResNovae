@@ -1,5 +1,6 @@
 # ResNovae · L'utilizzo dell'AI nella sfera personale
 Homepage del nostro progetto:https://jessssssif.github.io/Project_HCI_ResNovae/
+
 Progetto del corso di **Human-Computer Interaction (HCI)**, a.a. 2026-2027.
 
 La crescente diffusione dell'AI trasforma diversi ambiti della vita quotidiana di un individuo, dalla sfera lavorativa a quella più personale, di conseguenza anche il benessere psicologico. Con questa ricerca vorremmo comprendere:
